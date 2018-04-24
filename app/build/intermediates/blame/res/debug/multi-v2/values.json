@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Corbeau\\Desktop\\Projects\\android\\ScanApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Corbeau\\Desktop\\Projects\\android\\ScanApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,13,6,8,5,4,10,11,14,3,7,12,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,674,290,400,228,178,504,562,712,100,346,613,450",
+                        "startOffsets": "57,687,296,408,233,182,514,573,726,103,353,625,459",
                         "endColumns": "44,37,55,49,61,49,57,50,41,77,53,60,53",
-                        "endOffsets": "95,707,341,445,285,223,557,608,749,173,395,669,499"
+                        "endOffsets": "97,720,347,453,290,227,567,619,763,176,402,681,508"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
