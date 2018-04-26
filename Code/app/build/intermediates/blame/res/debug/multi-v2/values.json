@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,13,6,8,5,4,10,11,14,3,7,12,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

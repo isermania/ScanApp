@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,13,6,8,5,4,10,11,14,3,7,12,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,687,296,408,233,182,514,573,726,103,353,625,459",
+                        "endColumns": "44,37,55,49,61,49,57,50,41,77,53,60,53",
+                        "endOffsets": "97,720,347,453,290,227,567,619,763,176,402,681,508"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,138,194,244,306,356,414,465,507,585,639,700",
+                        "endColumns": "44,37,55,49,61,49,57,50,41,77,53,60,53",
+                        "endOffsets": "95,133,189,239,301,351,409,460,502,580,634,695,749"
+                    }
+                }
+            ]
+        }
+    ]
+}
