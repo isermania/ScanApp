@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86'
+            universalApk true
+        }
+    }
+
+    compileSdkVersion 14
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.digitalpersona.uareu.UareUSampleJava"
+        minSdkVersion 14
+        targetSdkVersion 14
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/dpuareu.jar')
+}

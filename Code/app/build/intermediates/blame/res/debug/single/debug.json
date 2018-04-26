@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_capture_stream_320x240.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout-land\\activity_capture_stream_320x240.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.gif.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\drawable-ldpi\\logo.gif"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_engine_320x240.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout-land\\activity_engine_320x240.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black.jpg.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\drawable\\black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.gif.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\drawable-hdpi\\logo.gif"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_capture_stream.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout-land\\activity_capture_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_engine.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout\\activity_engine.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_engine.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout-land\\activity_engine.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.gif.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\drawable-mdpi\\logo.gif"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture_stream.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout\\activity_capture_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_get_list.xml.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\layout\\activity_get_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
