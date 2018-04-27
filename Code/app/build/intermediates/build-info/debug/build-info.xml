@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a"
-    api-level="25"
+    abi="x86"
+    api-level="26"
     build-mode="FULL"
-    density="560dpi"
+    density="420dpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1524692052381"
-    token="7941215349936977177"
+    timestamp="1524779309752"
+    token="143949610258744394"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -18,87 +18,93 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1089" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\resources\instant-run\debug\resources-x86-debug.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\instant-run-apk\debug\app-universal-debug.apk"
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\instant-run-apk\debug\app-x86-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1524692052381"
+        timestamp="1524779309752"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\resources\instant-run\debug\resources-x86-debug.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\app\build\intermediates\instant-run-apk\debug\app-universal-debug.apk"
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\phill\Documents\School\Undergraduate\LU\Class\Super Senior Spring (2018)\Capstone\ScanApp\Code\app\build\intermediates\instant-run-apk\debug\app-x86-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

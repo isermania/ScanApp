@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Apr 26 16:17:37 EDT 2018
+#Fri Apr 27 09:39:19 EDT 2018
 4.path=lib/armeabi/libdpfr6.so
 8.set=NATIVE_RESOURCE
 6.path=lib/armeabi/libdpuvc.so
@@ -25,7 +25,7 @@
 3.path=lib/armeabi/libdpfr7.so
 10.set=NATIVE_RESOURCE
 5.path=lib/armeabi/libdpfpdd_4k.so
-0.base=C\:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=C\:\\Users\\phill\\Documents\\School\\Undergraduate\\LU\\Class\\Super Senior Spring (2018)\\Capstone\\ScanApp\\Code\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
 7.path=lib/armeabi/libdpuareu_jni.so
 9.path=lib/armeabi/libdpfpdd.so
 6.set=NATIVE_RESOURCE
