@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanApp</string>
+
+    <string name="serial_number">Serial Number: (No Reader Selected)</string>
+    <string name="get_reader">Get Reader</string>
+    <string name="get_capabilities">Get Capabilities</string>
+    <string name="capture_fingerprint">Capture</string>
+    <string name="stream_image">Stream Image</string>
+    <string name="enrollment">Enrollment</string>
+    <string name="verification">Verification</string>
+    <string name="identification">Identification</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="back">Back</string>
+    <string name="select">Select</string>
+
+    <!-- main page -->
+    <string name="header_txt">ScanApp</string>
+    <string name="enroll_btn">Enroll</string>
+    <string name="verify_btn">Verify</string>
+    <string name="check_btn">Check Print</string>
+    <string name="connect_btn">Connect Reader</string>
+
+    <!-- not connected page -->
+    <string name="not_connected_txt">There is currently no fingerprint reader available.</string>
+    <string name="try_again_btn">Try again...</string>
+
+    <!-- enroll page -->
+    <string name="enroll_def_txt">This function adds a recipient to the database.</string>
+    <string name="enroll_instr_txt">Scan finger 5 times.</string>
+    <string name="enroll_scan_btn">Begin Scan</string>
+
+    <!-- verify page -->
+    <string name="verify_def_txt">This function grants access to a recipient.</string>
+    <string name="verify_instr_txt">Scan finger at any time.</string>
+    <string name="verify_scan_btn">Scan Finger</string>
+
+    <!-- check fingerprint page -->
+    <string name="check_def_txt">This function is used to check if a
+        recipient is currently in the database.</string>
+    <string name="scan_check_btn">Scan Finger</string>
+
+    <!-- connect reader page -->
+    <string name="connect_def_txt">There is currently no fingerprint reader available.</string>
+    <string name="connect_instr_txt">Plug one in, and you will be returned to the home screen.</string>
+</resources>

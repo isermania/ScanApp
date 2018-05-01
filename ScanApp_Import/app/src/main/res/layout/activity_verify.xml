@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/verify_btn"
+        android:layout_width="206dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="120dp"
+        android:background="#689F38 "
+        android:onClick="clickEnroll"
+        android:text="@string/verify_scan_btn"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:visibility="visible"/>
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintHorizontal_bias="0.497"-->
+        <!--app:layout_constraintStart_toStartOf="parent" />-->
+
+    <TextView
+        android:id="@+id/verify_textView2"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="132dp"
+        android:text="@string/verify_instr_txt"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        android:textStyle="bold|italic"/>
+        <!--android:textAlignment="center"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/verify_btn"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent" />-->
+
+    <TextView
+        android:id="@+id/verify_textView"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="@string/verify_def_txt"
+        android:textColor="@android:color/black"
+        android:textSize="26sp"
+        android:visibility="visible"/>
+        <!--android:textAlignment="center"-->
+        <!--android:textAppearance="@style/TextAppearance.AppCompat"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintHorizontal_bias="0.5"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/header-verify" />-->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/header-verify"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#0288D1"
+        tools:layout_editor_absoluteY="1dp">
+        <!--android:elevation="4dp"-->
+        <!--android:theme="@style/ThemeOverlay.AppCompat.ActionBar"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintHorizontal_bias="0.0"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:popupTheme="@style/ThemeOverlay.AppCompat.Light"-->
+
+        <TextView
+            android:id="@+id/title_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/header_txt"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            tools:layout_editor_absoluteX="178dp"
+            tools:layout_editor_absoluteY="22dp" />
+            <!--android:textAppearance="@style/TextAppearance.AppCompat"-->
+
+    </android.support.v7.widget.Toolbar>
+</android.support.constraint.ConstraintLayout>
