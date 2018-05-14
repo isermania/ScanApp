@@ -14,7 +14,7 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "com.digitalpersona.uareu.UareUSampleJava"
+        applicationId "com.digitalpersona.uareu.MainActivity"
         minSdkVersion 14
         targetSdkVersion 14
     }

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.digitalpersona.uareu.UareUSampleJava"
+    package="com.digitalpersona.uareu.MainActivity"
+    android:configChanges="orientation"
+    android:screenOrientation="portrait"
     android:versionCode="1"
     android:versionName="3.0.0" >
 
@@ -16,10 +18,9 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher_round"
-        android:label="@string/app_name"
-        android:testOnly="true" >
+        android:label="@string/app_name" >
         <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.UareUSampleJava"
+            android:name="com.digitalpersona.uareu.ScanApp.MainActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true"
             android:label="@string/app_name" >
@@ -30,7 +31,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.GetReaderActivity"
+            android:name="com.digitalpersona.uareu.ScanApp.GetReaderActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/app_name" >
             <intent-filter>
@@ -38,7 +39,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.GetCapabilitiesActivity"
+            android:name="com.digitalpersona.uareu.ScanApp.EnrollmentActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/app_name" >
             <intent-filter>
@@ -46,45 +47,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.CaptureFingerprintActivity"
+            android:name="com.digitalpersona.uareu.ScanApp.IdentificationActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/app_name" >
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.StreamImageActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.EnrollmentActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.VerificationActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.digitalpersona.uareu.UareUSampleJava.IdentificationActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+
+        <!-- CUSTOM ACTIVITIES -->
+
     </application>
 
 </manifest>
