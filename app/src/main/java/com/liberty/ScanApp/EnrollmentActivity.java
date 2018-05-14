@@ -16,12 +16,15 @@ import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
+import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.content.Context;
+import android.util.Base64;
+
 
 public class EnrollmentActivity extends Activity
 {
@@ -264,11 +267,14 @@ public class EnrollmentActivity extends Activity
                         if (m_success){
                             m_text_conclusionString = "Enrollment template created, size: " + m_templateSize;
 
+                            // get base64 encoded fmd bytes[]
+                            String m_encoded = Base64.encodeToString(m_data,Base64.URL_SAFE | Base64.NO_PADDING | Base64.NO_WRAP);
+
                             // open LineApp (com.lineapp)
                             Context applContext = getApplicationContext();
                             PackageManager manager = applContext.getPackageManager();
                             Intent i = manager.getLaunchIntentForPackage("com.lineapp");
-                            i.putExtra("enrollmentFmd",m_data);
+                            i.putExtra("enrollmentFmd",m_encoded);
                             applContext.startActivity(i);
 
                             // return
