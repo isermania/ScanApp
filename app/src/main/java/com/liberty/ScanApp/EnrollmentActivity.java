@@ -23,6 +23,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.content.Context;
+import android.net.Uri;
 import android.util.Base64;
 
 
@@ -269,15 +270,9 @@ public class EnrollmentActivity extends Activity
 
                             // get base64 encoded fmd bytes[]
                             String m_encoded = Base64.encodeToString(m_data,Base64.URL_SAFE | Base64.NO_PADDING | Base64.NO_WRAP);
-
-                            // open LineApp (com.lineapp)
-                            Context applContext = getApplicationContext();
-                            PackageManager manager = applContext.getPackageManager();
-                            Intent i = manager.getLaunchIntentForPackage("com.lineapp");
-                            i.putExtra("enrollmentFmd",m_encoded);
-                            applContext.startActivity(i);
-
-                            // return
+                            String lineAppURI = ("lineapp://newRecipient/" + m_encoded);
+							Intent browse = new Intent( Intent.ACTION_VIEW , Uri.parse(lineAppURI) );
+							startActivity( browse );
                             onBackPressed();
                         }
                         else{
