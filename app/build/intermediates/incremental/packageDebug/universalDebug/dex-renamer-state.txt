@@ -1,4 +1,0 @@
-#Mon May 14 15:05:30 EDT 2018
-base.0=C\:\\Users\\Corbeau\\Desktop\\Projects\\android\\ScanApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

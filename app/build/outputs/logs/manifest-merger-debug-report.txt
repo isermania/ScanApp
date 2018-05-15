@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:3:7-49
+		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:3:7-36
 		INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml
 	android:screenOrientation
@@ -52,14 +52,14 @@ ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:11:22-77
 application
-ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:12:5-47:19
+ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:12:5-44:19
 	android:label
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:12:59-91
 	android:icon
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:12:18-58
 	android:allowBackup
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:12:92-118
-activity#com.digitalpersona.uareu.ScanApp.MainActivity
+activity#com.liberty.ScanApp.MainActivity
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:13:9-22:20
 	android:label
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:15:19-51
@@ -68,7 +68,7 @@ ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\Androi
 	android:configChanges
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:16:19-80
 	android:name
-		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:13:19-79
+		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:13:19-66
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
@@ -79,29 +79,29 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:19:27-74
-activity#com.digitalpersona.uareu.ScanApp.GetReaderActivity
+activity#com.liberty.ScanApp.GetReaderActivity
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:label
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:24:19-51
 	android:configChanges
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:25:19-80
 	android:name
-		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:23:19-84
+		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:23:19-71
 intent-filter#android.intent.category.LAUNCHER
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:26:13-28:29
-activity#com.digitalpersona.uareu.ScanApp.EnrollmentActivity
+activity#com.liberty.ScanApp.EnrollmentActivity
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:30:9-36:20
 	android:label
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:31:19-51
 	android:configChanges
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:32:19-80
 	android:name
-		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:30:19-85
-activity#com.digitalpersona.uareu.ScanApp.IdentificationActivity
+		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:30:19-72
+activity#com.liberty.ScanApp.IdentificationActivity
 ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:37:9-43:20
 	android:label
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:38:19-51
 	android:configChanges
 		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:39:19-80
 	android:name
-		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:37:19-89
+		ADDED from C:\Users\Corbeau\Desktop\Projects\android\ScanApp\app\src\main\AndroidManifest.xml:37:19-76
