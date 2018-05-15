@@ -30,12 +30,9 @@ public class MainActivity extends Activity {
     private TextView m_selectedDevice;
 
     private Button m_getReader;
-    private Button m_enrollrecipient;
-    private Button m_authenticaterecipient;
 
-    private Button m_enroll;
-    private Button m_identify;
-    private Button m_settings;
+    private Button m_enrollment;
+    private Button m_identification;
 
     private String m_deviceName = "";
 
@@ -59,35 +56,30 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         m_selectedDevice = (TextView) findViewById(R.id.selected_device);
         m_getReader = (Button) findViewById(R.id.get_reader);
-        m_enrollrecipient = (Button) findViewById(R.id.enroll_recipient);
-        m_authenticaterecipient = (Button) findViewById(R.id.authenticate_recipient);
+        m_enrollment = (Button) findViewById(R.id.enrollment);
+        m_identification = (Button) findViewById(R.id.identification);
+
+        // reader is not connected
+        if (m_deviceName == ""){
+            m_enrollment.setVisibility(View.GONE);
+            m_identification.setVisibility(View.GONE);
+        }
 
         m_getReader.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 launchGetReader();
             }
         });
-
-        m_enrollrecipient.setOnClickListener(new View.OnClickListener() {
+        m_enrollment.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                launchEnrollRecipient();
+                launchEnrollment();
             }
         });
-
-        m_authenticaterecipient.setOnClickListener(new View.OnClickListener() {
+        m_identification.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                launchAuthenticateRecipient();
+                launchIdentification();
             }
         });
-
-        Context ctx = this; // or you can replace **'this'** with your **ActivityName.this**
-        try {
-            Intent i = ctx.getPackageManager().getLaunchIntentForPackage("com.twidroid.SendTweet");
-            ctx.startActivity(i);
-            //} catch (NameNotFoundException e) {
-        } catch (Exception e) {
-            // TODO Auto-generated catch block
-        }
     }
 
 
@@ -98,14 +90,14 @@ public class MainActivity extends Activity {
         startActivityForResult(i, 1);
     }
 
-    protected void launchEnrollRecipient() {
+    protected void launchEnrollment() {
         Intent i = new Intent(MainActivity.this, EnrollmentActivity.class);
         i.putExtra("device_name", m_deviceName);
         startActivityForResult(i, 1);
     }
 
-    protected void launchAuthenticateRecipient() {
-        Intent i = new Intent(MainActivity.this, GetReaderActivity.class);
+    protected void launchIdentification() {
+        Intent i = new Intent(MainActivity.this, IdentificationActivity.class);
         i.putExtra("device_name", m_deviceName);
         startActivityForResult(i, 1);
     }
@@ -137,6 +129,10 @@ public class MainActivity extends Activity {
 			displayReaderNotFound();
 			return;
 		}
+
+		// reader is connected
+		m_enrollment.setVisibility(View.VISIBLE);
+		m_identification.setVisibility(View.VISIBLE);
 		
 		Globals.ClearLastBitmap();
 		m_deviceName = (String) data.getExtras().get("device_name");
