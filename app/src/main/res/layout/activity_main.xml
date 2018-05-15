@@ -23,19 +23,22 @@ android:orientation="vertical">
         android:id="@+id/get_reader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GET READER" />
+        android:text="@string/get_reader"
+        android:textAllCaps="true"/>
 
     <Button
-        android:id="@+id/enroll_recipient"
+        android:id="@+id/enrollment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ENROLL" />
+        android:text="@string/enrollment"
+        android:textAllCaps="true"/>
 
     <Button
-        android:id="@+id/authenticate_recipient"
+        android:id="@+id/identification"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="IDENTIFY" />
+        android:text="@string/identification"
+        android:textAllCaps="true"/>
 
 </LinearLayout>
 </ScrollView>

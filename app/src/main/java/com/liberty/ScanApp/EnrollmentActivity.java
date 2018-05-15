@@ -11,7 +11,6 @@ import com.digitalpersona.uareu.UareUGlobal;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -24,7 +23,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.content.Context;
 import android.net.Uri;
-import android.util.Base64;
 
 
 public class EnrollmentActivity extends Activity
@@ -88,7 +86,7 @@ public class EnrollmentActivity extends Activity
 	public void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_engine);
+		setContentView(R.layout.activity_enrollment);
 		m_textString = "Place any finger on the reader";
 		initializeActivity();
 
@@ -190,7 +188,7 @@ public class EnrollmentActivity extends Activity
 	public void onConfigurationChanged(Configuration newConfig)
 	{
 		super.onConfigurationChanged(newConfig);
-		setContentView(R.layout.activity_engine);
+		setContentView(R.layout.activity_enrollment);
 		initializeActivity();
 	}
 
