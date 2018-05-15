@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.digitalpersona.uareu.MainActivity.test">
+    package="com.liberty.MainActivity.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="14" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.digitalpersona.uareu.MainActivity"
+                     android:targetPackage="com.liberty.MainActivity"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.digitalpersona.uareu.MainActivity"/>
+                     android:label="Tests for com.liberty.MainActivity"/>
 </manifest>
